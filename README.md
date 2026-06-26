@@ -51,16 +51,6 @@ end
 
 </div>
 
-<!-- ============ LIVE STATS ============ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manasa-vamsi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=0ea5e9" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa-vamsi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&langs_count=8" alt="top langs" />
-
-</div>
-
 <!-- ============ STREAK ============ -->
 <div align="center">
 
